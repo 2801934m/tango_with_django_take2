@@ -69,5 +69,3 @@ def add_cat(name):
 if __name__ == '__main__':
     print('Starting Rango population script...')
     populate()
-
-    # MORE CODE TO BE ADDED HERE. PAGE 89 TANGO WITH DJANGO BOOK.
